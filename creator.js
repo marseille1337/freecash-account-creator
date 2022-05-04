@@ -93,3 +93,4 @@ async function free_cash() {
     console.log('\x1b[35m%s\x1b[0m', 'Ghost | Account have been succesfully saved! -> accounts.txt')
     process.send({ created: "+1" })
 }
+//-
