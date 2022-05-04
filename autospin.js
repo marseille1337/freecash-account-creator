@@ -84,3 +84,4 @@ async function free_cash() {
     await page.click('div[class="Open-case-btn waves-effect"]')
           
 }
+//.
